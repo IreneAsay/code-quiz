@@ -1,0 +1,27 @@
+a, a:hover, a:active {
+    color: #502973;
+}
+
+main {
+    width: 50%;
+    margin: 100px auto;
+}
+
+main .btn {
+    background-color: #502973;
+    margin: 5px;
+    color: #fff;
+}
+
+main .btn:hover {
+    background-color: #84669e;
+    color: #fff;
+}
+
+main p {
+    font-size: 18px;
+}
+
+main .score {
+    background-color: #efe7f7;
+}
